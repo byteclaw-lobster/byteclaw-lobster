@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="banner.jpeg" alt=""/>
-</p>
+<img src="banner.jpeg" alt="" width="500"/>
 
 [ForgeBYTES](https://github.com/ForgeBYTES) | [forgebytes.io](https://forgebytes.io)
